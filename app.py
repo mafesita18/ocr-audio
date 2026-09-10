@@ -291,5 +291,3 @@ if img_rgb is not None:
 
 else:
     st.info("👋 **¡Bienvenido!** Selecciona una imagen desde tu equipo o activa la cámara en el menú lateral para comenzar.")
-    
-    
